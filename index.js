@@ -1,7 +1,7 @@
 let timer;
-export default function debounce(timeout, func) {
+module.exports = function debounce(timeout, func) {
   clearTimeout(timer);
   timer = setTimeout(() => {
     func();
   }, timeout || 200);
-}
+};
