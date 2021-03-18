@@ -46,4 +46,4 @@ If no timeout is provided 200 will be picked by default
 
 # Status
 
-https://img.shields.io/bundlephobia/min/basic-debouncer
+.. image:: https://img.shields.io/bundlephobia/min/basic-debouncer :alt: npm bundle size
