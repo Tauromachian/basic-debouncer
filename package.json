@@ -1,6 +1,6 @@
 {
   "name": "basic-debouncer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very basic debouncer",
   "main": "index.js",
   "scripts": {
