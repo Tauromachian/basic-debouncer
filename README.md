@@ -43,3 +43,7 @@ for (let index = 5; index > 0; index--) {
 In this example 1 will be printed.
 
 If no timeout is provided 200 will be picked by default
+
+# Status
+
+https://img.shields.io/bundlephobia/min/basic-debouncer
