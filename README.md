@@ -1,6 +1,7 @@
 # Basic Debouncer
 
-The objective of this module is to make a very simple and lightweight debouncer
+The objective of this module is to make a very simple and lightweight debouncer.
+In case you are looking for something with more options my advise would one from lodash, debouncer or debounceify modules.
 
 ## How to import
 
