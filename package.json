@@ -3,6 +3,10 @@
   "version": "1.0.4",
   "description": "A very basic debouncer",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tauromachian/basic-debouncer"
+  },
   "scripts": {
     "test": "mocha tests/"
   },
