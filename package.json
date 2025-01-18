@@ -3,6 +3,7 @@
   "version": "1.0.6",
   "description": "A very basic debouncer",
   "main": "index.js",
+  "types": "index.d.ts",
   "packageManager": "yarn@4.4.1",
   "repository": {
     "type": "git",
