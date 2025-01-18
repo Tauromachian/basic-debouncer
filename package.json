@@ -10,15 +10,14 @@
     "url": "https://github.com/Tauromachian/basic-debouncer"
   },
   "scripts": {
-    "test": "mocha tests/"
+    "test": "jest"
   },
   "keywords": [
     "debounce"
   ],
   "author": "jgarcia",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^4.3.4",
-    "mocha": "^8.3.2"
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
